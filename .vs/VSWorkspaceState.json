@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\JsonFormat"
+    "\\JsonFormat",
+    "\\JsonFormat\\fonts",
+    "\\JsonFormat\\js",
+    "\\JsonToModel",
+    "\\JsonToModel\\js"
   ],
+  "SelectedNode": "\\JsonFormat\\fonts",
   "PreviewInSolutionExplorer": false
 }
